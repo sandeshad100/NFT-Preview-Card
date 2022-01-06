@@ -55,6 +55,7 @@ p {
   display: block;
   overflow: hidden;
   border-radius: 10px;
+  caret-color: transparent;
 }
 .card-img__holder {
   font-size: 0;

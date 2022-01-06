@@ -85,6 +85,10 @@ p {
   font-size: 22px;
   font-weight: 600;
 }
+.card-info__title h1 {
+  margin: 0;
+  font-size: 1em;
+}
 .card-info__text {
   margin: 16px 0;
 }
